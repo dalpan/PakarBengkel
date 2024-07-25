@@ -1,0 +1,9 @@
+com\sistem\pakar\KnowledgeBase.class
+com\sistem\pakar\sistempakardiagnosis\SistemPakarDiagnosis.class
+com\sistem\pakar\ExpertSystem.class
+com\sistem\pakar\Condition.class
+com\sistem\pakar\Damage.class
+com\sistem\pakar\Main$1.class
+com\sistem\pakar\Main.class
+com\sistem\pakar\Rule.class
+com\sistem\pakar\DiagnosisUI.class
